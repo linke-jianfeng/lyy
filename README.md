@@ -1,3 +1,5 @@
 # my name is liuyaoying, my number is 16191006, i come from BUAA physics department, and this thing is my graduation project code.
-# there are there parts. The first part is the core code, it conclude deep learning code. The second part is training data preparation code, The third part is the result analysis code
-# although the code i upload can't run online,because i can't up load training data for protect patient privacy. but the code can prove i have made great afforts to do this project.
+# there are there parts. The first part is the core code, it contain deep learning code. The second part is training data preparation code, The third part is the result analysis code
+# all the code can run very well, if there have training data. i can't upload training data for i have to protect paitents privacy. 
+# if you have question ,please make connect to me.
+# environment：Tensorlofw 2.0.0, Keras2.3.1, Python3.6.8  ... 
